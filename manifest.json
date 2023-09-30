@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "HelpMeOut",
+    "version": "1.0.0",
+    "description": "A Chrome Extension plugin that can record a user's screen and send the recorded content to a specific online location (endpoint).",
+    "author": "Defacto",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "HelpMeOut"
+    },
+    "icons":{
+      "28":"HelpMeOut28.png",
+      "32":"HelpMeOut32.png"
+    }
+  }
